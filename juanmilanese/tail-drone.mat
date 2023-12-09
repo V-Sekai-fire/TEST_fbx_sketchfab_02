@@ -1,0 +1,24 @@
+version 1
+require all
+
+material Mat_Avion_Tail_Body
+    fbx.diffuse_color 0.5879999995231628 0.5879999995231628 0.5879999995231628
+    fbx.ambient_color 0.5879999995231628 0.5879999995231628 0.5879999995231628
+    fbx.diffuse_color.texture "D:\\00. Proyecto Luciano\\Proyecto Luciano 3DS Max\\export\\The Great Outdoors\\Avion\\Cola\\Tail\\Tail_Body\\Avion_Tail_Body_BaseColor.tif"
+    fbx.specular_factor 0.0
+    fbx.specular_color 0.8999999761581421 0.8999999761581421 0.8999999761581421
+    fbx.specular_exponent 2
+    
+    pbr.base_color 0.5879999995231628 0.5879999995231628 0.5879999995231628
+    pbr.base_color.texture "D:\\00. Proyecto Luciano\\Proyecto Luciano 3DS Max\\export\\The Great Outdoors\\Avion\\Cola\\Tail\\Tail_Body\\Avion_Tail_Body_BaseColor.tif"
+
+material Mat_Avion_Tail_Sail
+    fbx.diffuse_color 0.5879999995231628 0.5879999995231628 0.5879999995231628
+    fbx.ambient_color 0.5879999995231628 0.5879999995231628 0.5879999995231628
+    fbx.diffuse_color.texture "D:\\00. Proyecto Luciano\\Proyecto Luciano 3DS Max\\export\\The Great Outdoors\\Avion\\Cola\\Tail\\Tail_Body\\Avion_Tail_Sail_BaseColor.png"
+    fbx.specular_factor 0.0
+    fbx.specular_color 0.8999999761581421 0.8999999761581421 0.8999999761581421
+    fbx.specular_exponent 2
+    
+    pbr.base_color 0.5879999995231628 0.5879999995231628 0.5879999995231628
+    pbr.base_color.texture "D:\\00. Proyecto Luciano\\Proyecto Luciano 3DS Max\\export\\The Great Outdoors\\Avion\\Cola\\Tail\\Tail_Body\\Avion_Tail_Sail_BaseColor.png"

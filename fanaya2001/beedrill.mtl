@@ -1,0 +1,16 @@
+newmtl Beedrill_Low001SG
+illum 4
+Kd 0.10 0.09 0.00
+Ka 0.10 0.09 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Beedrill_LowSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.82 0.82 0.82
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00

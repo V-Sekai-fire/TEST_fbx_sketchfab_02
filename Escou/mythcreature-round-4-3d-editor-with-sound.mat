@@ -1,0 +1,20 @@
+version 2
+
+material "03___Default"
+    fbx.diffuse_color.texture "mythcreature-round-2-arachne-for-download/textures/C-Arachne_Paint_MAT_LowerTorso_BaseColor.jpg"
+
+material "MAT_Eyes"
+    fbx.diffuse_color.texture "mythcreature-round-2-arachne-for-download/textures/Arachne_Paint_MAT_Eyes_Emissive.jpg"
+
+material "default"
+    fbx.diffuse_color.texture "mythcreature-round-2-arachne-for-download/textures/C-Arachne_Paint_MAT_UpperTorso_BaseColor.jpg"
+
+material "Material__70"
+    fbx.diffuse_color.texture "mythcreature-round-2-arachne-for-download/textures/C-Arachne_Paint_MAT_UpperTorso_BaseColor.jpg"
+
+material "08___Default"
+    fbx.diffuse_color.texture "mythcreature-round-2-arachne-for-download/textures/C-Arachne_Paint_MAT_Abdomen_Legs_BaseColor.jpg"
+
+material "09___Default"
+    fbx.diffuse_color.texture "mythcreature-round-2-arachne-for-download/textures/C-Arachne_Paint_MAT_UpperTorso_BaseColor.jpg"
+    fbx.normal_map.texture "mythcreature-round-2-arachne-for-download/textures/C-Arachne_Paint_MAT_UpperTorso_Normal.jpg"
